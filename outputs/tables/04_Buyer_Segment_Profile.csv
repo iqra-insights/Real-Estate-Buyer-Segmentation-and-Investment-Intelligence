@@ -1,0 +1,5 @@
+cluster,age,satisfaction_score,total_purchases,total_spend,avg_purchase_price,avg_floor_area,pct_apartment,loan_flag,investment_flag,is_company,size,segment_name
+0,54.652,3.007,3.123,1353463.441,432123.964,1415.712,0.834,0.343,0.296,0.0,446,Premium / High-Value Buyers
+1,57.713,3.156,4.358,1549452.754,358204.326,1181.958,0.859,0.356,0.278,0.002,640,High-Volume / Frequent Buyers
+2,55.46,2.938,3.393,983920.294,291826.136,973.274,0.855,0.384,0.333,0.0,812,Value-Conscious Home Buyers
+3,47.582,3.049,3.608,1240325.73,345480.712,1145.097,0.849,0.422,0.343,1.0,102,Corporate Buyers

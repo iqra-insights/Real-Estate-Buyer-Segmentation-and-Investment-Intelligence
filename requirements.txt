@@ -1,0 +1,14 @@
+# pandas, numpy, scikit-learn, scipy, matplotlib, joblib are pinned to the
+# exact versions this pipeline was built and tested against in this
+# environment. streamlit and plotly are left as ranges because this sandbox
+# has no network access to install and verify an exact version against them -
+# after your first successful local install, consider running `pip freeze`
+# and pinning those two exactly as well for full reproducibility.
+pandas==3.0.2
+numpy==2.4.4
+scikit-learn==1.8.0
+scipy==1.17.1
+matplotlib==3.10.8
+plotly>=5.18,<6
+streamlit>=1.32,<2
+joblib==1.5.3

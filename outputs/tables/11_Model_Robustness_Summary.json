@@ -1,0 +1,12 @@
+{
+  "production_strategy": "Current production",
+  "production_k": 4,
+  "production_silhouette": 0.14049556921628967,
+  "best_silhouette_over_tested_strategies": 0.17175727342312058,
+  "best_strategy_by_silhouette": "Balanced behavior",
+  "best_k_by_silhouette": 3,
+  "seed_stability_mean_ari": 0.7309932931703061,
+  "seed_stability_min_ari": 0.5155625363188454,
+  "bootstrap_mean_ari": 0.5826182235309443,
+  "bootstrap_min_ari": 0.26328634707530135
+}

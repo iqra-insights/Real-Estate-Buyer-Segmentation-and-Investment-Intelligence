@@ -1,0 +1,28 @@
+approach,k,silhouette,inertia
+"Production (behavioral features only, no geography - see 05_Model_Notes.md)",2,0.1380985934091898,20630.9961171278
+"Production (behavioral features only, no geography - see 05_Model_Notes.md)",3,0.1450583605920749,18556.709047763918
+"Production (behavioral features only, no geography - see 05_Model_Notes.md)",4,0.1404955692162896,16895.638076997053
+"Production (behavioral features only, no geography - see 05_Model_Notes.md)",5,0.1286413070296878,15812.593442751404
+"Production (behavioral features only, no geography - see 05_Model_Notes.md)",6,0.1308121482942517,14353.523024830674
+"Production (behavioral features only, no geography - see 05_Model_Notes.md)",7,0.131371235606679,13616.935114050082
+"Production (behavioral features only, no geography - see 05_Model_Notes.md)",8,0.1322418002984534,13102.89699279974
+"Production (behavioral features only, no geography - see 05_Model_Notes.md)",9,0.1331478665017613,12654.9723567917
+"Production (behavioral features only, no geography - see 05_Model_Notes.md)",10,0.1352422672144039,12288.059548553363
+"Brief Step 2 (One-Hot: client_type,region,acquisition_purpose,referral_channel,country) + age,satisfaction only",2,0.16338458769016367,7230.2098688399665
+"Brief Step 2 (One-Hot: client_type,region,acquisition_purpose,referral_channel,country) + age,satisfaction only",3,0.14996624597333288,6285.973899484285
+"Brief Step 2 (One-Hot: client_type,region,acquisition_purpose,referral_channel,country) + age,satisfaction only",4,0.13326361778490928,5747.074601860032
+"Brief Step 2 (One-Hot: client_type,region,acquisition_purpose,referral_channel,country) + age,satisfaction only",5,0.13345314527616034,5450.347816837346
+"Brief Step 2 (One-Hot: client_type,region,acquisition_purpose,referral_channel,country) + age,satisfaction only",6,0.13094258964655803,5189.191983117051
+"Brief Step 2 (One-Hot: client_type,region,acquisition_purpose,referral_channel,country) + age,satisfaction only",7,0.12888243431981647,4998.996440258905
+"Brief Step 2 (One-Hot: client_type,region,acquisition_purpose,referral_channel,country) + age,satisfaction only",8,0.12658379678460066,4820.980831033383
+"Brief Step 2 (One-Hot: client_type,region,acquisition_purpose,referral_channel,country) + age,satisfaction only",9,0.12919841358288423,4663.839759730846
+"Brief Step 2 (One-Hot: client_type,region,acquisition_purpose,referral_channel,country) + age,satisfaction only",10,0.12742574399764142,4530.935023545266
+"Brief Step 2 (Label Encoding of same 5 fields) + age,satisfaction only",2,0.41264603296882113,11975.209288489024
+"Brief Step 2 (Label Encoding of same 5 fields) + age,satisfaction only",3,0.21554821247196845,10082.92636421118
+"Brief Step 2 (Label Encoding of same 5 fields) + age,satisfaction only",4,0.20166245307313754,8873.213998776184
+"Brief Step 2 (Label Encoding of same 5 fields) + age,satisfaction only",5,0.21803178170268728,7620.303382288946
+"Brief Step 2 (Label Encoding of same 5 fields) + age,satisfaction only",6,0.20732575413764182,6976.923871212519
+"Brief Step 2 (Label Encoding of same 5 fields) + age,satisfaction only",7,0.2280476403461909,6512.28146673085
+"Brief Step 2 (Label Encoding of same 5 fields) + age,satisfaction only",8,0.2115017847596202,6077.203475429964
+"Brief Step 2 (Label Encoding of same 5 fields) + age,satisfaction only",9,0.21633001090799608,5779.094862555368
+"Brief Step 2 (Label Encoding of same 5 fields) + age,satisfaction only",10,0.22251475910059068,5490.323009201469
